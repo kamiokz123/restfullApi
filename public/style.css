@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(109, 105, 105, 0.562);
+}
+
+.posts{
+    display: flex;
+    gap:20px
+}
+
+.card{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: bisque;
+}
